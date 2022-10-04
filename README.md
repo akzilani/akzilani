@@ -18,3 +18,5 @@ Skills: LARAVEL/PHP/BOOTSTRAP/ HTML5 / CSS3
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akzilani)  
 
 ![Profile views](https://gpvc.arturio.dev/akzilani)  
+
+![GitHub metrics](https://metrics.lecoq.io/akzilani)
