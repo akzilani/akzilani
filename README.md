@@ -10,9 +10,13 @@ Skills: LARAVEL/PHP/BOOTSTRAP/ HTML5 / CSS3
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akzilani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/a_k_zilanii/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/a_k_zilanii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCRVgodcxZjibMdE-d-lwZmA)  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/a_k_zilanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/a_k_zilanii" height="30" width="40" /></a>
+<a href="https://twitter.com/a_k_zilanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_k_zilanii" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/zilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zilani" height="30" width="40" /></a>
+<a href="https://instagram.com/a_k_zilanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_k_zilanii" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucrvgodcxzjibmde-d-lwzma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucrvgodcxzjibmde-d-lwzma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
