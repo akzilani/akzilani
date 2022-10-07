@@ -1,8 +1,8 @@
-## Hi there 👋, I am Zilan
-### Backend Web Developer
-A Proactive BSc in Computer Science Engineering student at the Daffodil International University with best achievements. I am a Backend Web Developer to Keen to pursue a career in Professional Service.
+## Hi 👋, I am Zilan
+### A passionate Full Stack Developer from Bangladesh.
+A Proactive BSc in Computer Science Engineering with best achievements. I am a Full Stack Developer Keen to pursue a career in Professional Service.
 
-Skills: LARAVEL/PHP/BOOTSTRAP/ HTML5 / CSS3
+Skills: LARAVEL/PHP/MySQL/BOOTSTRAP/TAILWIND/HTML5/CSS3
 
 - 🌱 I’m currently learning Laravel & JavaScript. 
 - 👯 I’m looking to collaborate on GitHub. 
