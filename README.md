@@ -27,7 +27,7 @@ Skills: LARAVEL/PHP/MySQL/API/BOOTSTRAP/TAILWIND/HTML5/CSS3
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akzilani)   -->
 
-[![Zilan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Zilan's github activity graph](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Profile views](https://gpvc.arturio.dev/akzilani)  
 
