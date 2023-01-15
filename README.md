@@ -26,8 +26,7 @@ Skills: LARAVEL/PHP/MySQL/API/BOOTSTRAP/TAILWIND/HTML5/CSS3
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akzilani&show_icons=true&count_private=true)  
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akzilani)   -->
-
-[![Zilan's github activity graph](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Profile views](https://gpvc.arturio.dev/akzilani)  
 
