@@ -9,7 +9,9 @@ Skills: LARAVEL/PHP/MySQL/API/BOOTSTRAP/TAILWIND/HTML5/CSS3
 - ⚡ love travelling & spending time with family,friends. 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif
+    <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
 <a href="https://linkedin.com/in/abdul-kader-zilanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-kader-zilanii" height="30" width="40" /></a>
 <a href="https://instagram.com/a_k_zilanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_k_zilanii" height="30" width="40" /></a>
 <a href="https://twitter.com/a_k_zilanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_k_zilanii" height="30" width="40" /></a>
